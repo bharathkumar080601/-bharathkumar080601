@@ -1,5 +1,4 @@
-# -bharathkumar080601
-Profile
+
 <h1 align="center">Hi 👋, I'm Bharath Kumar K</h1>
 <h3 align="center">Senior DevOps & Platform Engineer | Kubernetes | OpenShift | Cloud | SRE</h3>
 
@@ -115,5 +114,4 @@ Profile
 ---
 
 🔥 *“SRE mindset: If it breaks once → automate the fix forever.”*  
-⭐ Don't forget to ⭐ my repos if you like my work!  
-<img width="895" height="4031" alt="image" src="https://github.com/user-attachments/assets/34078909-7d89-4462-b331-6944934f2b2e" />
+⭐ Don't forget to ⭐ my repos if you like my work! 
